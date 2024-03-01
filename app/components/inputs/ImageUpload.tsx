@@ -1,5 +1,4 @@
 'use client';
-
 import { CldUploadWidget } from "next-cloudinary";
 import Image from "next/image";
 import { useCallback } from "react";
@@ -9,7 +8,7 @@ declare global {
   var cloudinary: any
 }
 
-const uploadPreset = "pgc9ehd5";
+const uploadPreset = "igiixybu";
 
 interface ImageUploadProps {
   onChange: (value: string) => void;
