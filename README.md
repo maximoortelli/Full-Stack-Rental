@@ -139,7 +139,9 @@ bun dev
   <img src="./public/images/kanban2.png" />
   <img src="./public/images/kanban3.png" />
   <img src="./public/images/kanban4.png" />
-
+  <img src="./public/images/kanban5.png" />
+  <img src="./public/images/kanban6.png" />
+  <img src="./public/images/kanban7.png" />
 # 👥 Authors 
 <a name="author"></a>
 
