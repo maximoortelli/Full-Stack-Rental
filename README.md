@@ -3,7 +3,7 @@
    <h1>🛒📊 Full Stack Airbnb 📊🛒</h1>
 </div>
   <div align="center">
-    <img src="./public/media/amazon.jpg" />
+    <img src="./public/images/airbnb.jpg" />
   </div>
 
 # 📗 Table of Contents
@@ -36,7 +36,7 @@
 
 <a name="deployment"></a>
 
-<a href="https://full-stack-amazon-rouge.vercel.app/" target="_blank">Click here to see the deployment</a>
+<a href="https://full-stack-rental.vercel.app/" target="_blank">Click here to see the deployment</a>
 
 # 🛠 Built With 
 
