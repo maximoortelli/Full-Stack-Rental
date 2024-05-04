@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
-   <h1>🛒📊 Full Stack Airbnb 📊🛒</h1>
+   <h1>🏘🏙 Full Stack Airbnb 🏙🏘</h1>
 </div>
   <div align="center">
     <img src="./public/images/airbnb.jpg" />
@@ -62,7 +62,7 @@
         <a href="https://www.typescriptlang.org/">TypeScript</a>
      </li>
       <li>
-       <img src="./public/media/eslint.png" width="50"/>
+       <img src="./public/images/eslint.png" width="50"/>
        <a href="https://eslint.org">Eslint</a>
      </li>
       <li>
